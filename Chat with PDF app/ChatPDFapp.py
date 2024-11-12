@@ -68,9 +68,6 @@ def main():
                 print(cb)
             st.write(response)
                 
-                
-        
-        
     
     
 if __name__ == '__main__':
